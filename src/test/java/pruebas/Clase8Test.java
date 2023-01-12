@@ -30,6 +30,8 @@ public class Clase8Test {
 	
 	@Test(dataProvider="Datos Login")
 	public void login(String email, String password) {
+		System.out.println("Inicio de la Clase Login");
+		
 		PaginaInicio inicio = new PaginaInicio(driver);
 		inicio.hacerClicEnSignIn();
 		
