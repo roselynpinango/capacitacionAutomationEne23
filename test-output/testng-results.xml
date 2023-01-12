@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="6" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-12T08:55:13 ART" name="Default suite" finished-at="2023-01-12T08:55:21 ART" duration-ms="7720">
+    <groups>
+    </groups>
+    <test started-at="2023-01-12T08:55:13 ART" name="Default test" finished-at="2023-01-12T08:55:21 ART" duration-ms="7720">
+      <class name="pruebas.Clase8Test">
+        <test-method is-config="true" signature="abrirNavegador()[pri:0, instance:pruebas.Clase8Test@78e4deb0]" started-at="2023-01-12T08:55:05 ART" name="abrirNavegador" finished-at="2023-01-12T08:55:13 ART" duration-ms="7959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abrirNavegador -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@78e4deb0]" started-at="2023-01-12T08:55:14 ART" name="login" data-provider="Datos Login" finished-at="2023-01-12T08:55:16 ART" duration-ms="1725" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23wr32rw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@78e4deb0]" started-at="2023-01-12T08:55:16 ART" name="login" data-provider="Datos Login" finished-at="2023-01-12T08:55:17 ART" duration-ms="1364" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ryu6tyr5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@78e4deb0]" started-at="2023-01-12T08:55:17 ART" name="login" data-provider="Datos Login" finished-at="2023-01-12T08:55:18 ART" duration-ms="1345" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo3@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[65yetw4y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@78e4deb0]" started-at="2023-01-12T08:55:18 ART" name="login" data-provider="Datos Login" finished-at="2023-01-12T08:55:20 ART" duration-ms="1338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5t4t45tu6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@78e4deb0]" started-at="2023-01-12T08:55:20 ART" name="login" data-provider="Datos Login" finished-at="2023-01-12T08:55:21 ART" duration-ms="1304" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo5@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5rte54tt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- pruebas.Clase8Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
